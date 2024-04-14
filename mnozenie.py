@@ -1,7 +1,7 @@
 # Wartosci stale
 
-SZABLON_POWITANIA = """Witaj, {}! Jestem kalkulatorem, w tej wersji potrafie tylko dodawac.
-Podaj dwie liczby, a ja podam ich sume."""
+SZABLON_POWITANIA = """Witaj, {}! Jestem kalkulatorem, w tej wersji potrafie tylko mnozyc.
+Podaj dwie liczby, a ja podam ich iloczyn."""
 
 # Przetwarzanie danych
 
